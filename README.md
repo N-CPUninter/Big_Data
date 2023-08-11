@@ -4,15 +4,17 @@
 </div>
 
 <!-- Título e breve descrição do repositório -->
-<div align="center"><h1>MODELO</h1><p><b>Descrição do seu repositório. Altere abaixo os ícones das tecnologias usadas:</b></p></div>
+<div align="center"><h1>MODELO</h1><p><b>Arquivos de auxílio ao trabalho da matéria de Big Data, incluindo arquivo csv com os dados e um notebook Python para início do trabalho.</b></p></div>
 
 <!-- Ícones ou links das tecnologias usadas -->
 <p align="center">
-  <a href="https://www.uml.org/" title="UML"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML" height="21px"></a>
+  <a href="https://hadoop.apache.org/" title="Hadoop"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Apache Hadoop" height="21px"></a>
   +
   <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
   +
-  <a href="https://plantuml.com/" title="PlantUML">PlantUML</a>
+  <a href="https://spark.apache.org/" title="Spark"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark"></a>
+  +
+  <a href="https://colab.research.google.com/" title="Google Colab"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab"></a>
 </p>
 
 <!-- Escudos de licença e contador de contribuidores -->
@@ -28,9 +30,9 @@
 <!-- Descrição do repositório e demais dados -->
 ## Descrição
 
-Este repositório contém os arquivos de modelo para criação de repositórios padronizados N-CPU.
+Este repositório contém alguns arquivos para auxílio na realização do trabalho prático da matéria de Big Data.
 
-Este modelo faz parte do N-CPU.
+Aqui você encontrará o arquivo dos dados em csv (`imdb-reviews-pt-br.csv`) e um notebook python com os códigos necessário para realização do trabalho pelo Google Colab.
 
 ## Participantes
 
@@ -42,25 +44,11 @@ Este modelo faz parte do N-CPU.
 
 ## Como usar este repositório
 
-Ao criar um novo repositório, selecione este repositório como modelo.
-
-### Banner do arquivo README.md
-
-Utilize o arquivo Banner_Github_NCPU.pptx da pasta `.readme_docs` para criar seu arquivo `.readme_docs/Banner_Github_NCPU.png`. Coloque o título do seu repositório como título e o nome de sua matéria como subtítulo do banner.
-
-Após alterar os dados, clique em Arquivo -> Exportar -> Alterar o tipo de arquivo -> Duplo clique em PNG.  Salve com o mesmo nome e extenção png (`Banner_Github_NCPU.png`).
-
-Coloque o arquivo PNG na pasta `.readme_docs/` do seu repositório e exclua o arquivo `Banner_Github_NCPU.pptx`.
-
-### Dados do arquivo REAMD.md
-```diff
-- Lembre-se de alterar os dados deste arquivo para condfizerem com os seus dados e de sua matéria/repositório!
-
-
-+ Mantenha os tópicos "Contribuições" e "Licença" ao final de seu arquivo README.md.
-```
-
-## Comandos de utilização
+1. Faça dolwnload do arquivo `trabalho_big_data.ipynb`;
+2. Abra o Google Colab;
+3. faça o upload deste arquivo para seu <a href="https://colab.research.google.com/" title="Google Colab">Google Colab</a>;
+4. Rode o notebook no Google Colab para se certificar de que tudo está rodando corretamente e sem falhas;
+5. Altere os códigos nas partes da Questão 1 e 2 para realização do trabalho.
 
 ## Contribuições
 
