@@ -12,9 +12,9 @@
   +
   <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
   +
-  <a href="https://spark.apache.org/" title="Spark"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark"></a>
+  <a href="https://spark.apache.org/" title="Spark"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="21px"></a>
   +
-  <a href="https://colab.research.google.com/" title="Google Colab"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab"></a>
+  <a href="https://colab.research.google.com/" title="Google Colab"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="21px"></a>
 </p>
 
 <!-- Escudos de licença e contador de contribuidores -->
@@ -44,9 +44,18 @@ Aqui você encontrará o arquivo dos dados em csv (`imdb-reviews-pt-br.csv`) e u
 
 ## Como usar este repositório
 
+### Método 1:
+1. Abra o seu <a href="https://colab.research.google.com/" title="Google Colab">Google Colab</a>;
+2. Na janela de abertura de arquivo, clique em GitHub;
+3. Na barra de busca, substitua seu nome de usuário por `https://github.com/N-CPUninter/Big_Data` e clique em pesquisar (ícone de lupa);
+4. Clique sobre `trabalho_big_data.ipynb`;
+5. Rode o notebook no Google Colab para se certificar de que tudo está rodando corretamente e sem falhas;
+6. Altere os códigos nas partes da Questão 1 e 2 para realização do trabalho.
+
+### Método 2:
 1. Faça dolwnload do arquivo `trabalho_big_data.ipynb`;
-2. Abra o Google Colab;
-3. faça o upload deste arquivo para seu <a href="https://colab.research.google.com/" title="Google Colab">Google Colab</a>;
+2. Abra o <a href="https://colab.research.google.com/" title="Google Colab">Google Colab</a>;
+3. Faça o upload do arquivo do trabalho para seu <a href="https://colab.research.google.com/" title="Google Colab">Google Colab</a>, na janela de abertura de arquivo;
 4. Rode o notebook no Google Colab para se certificar de que tudo está rodando corretamente e sem falhas;
 5. Altere os códigos nas partes da Questão 1 e 2 para realização do trabalho.
 
