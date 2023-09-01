@@ -1,5 +1,5 @@
 <!-- Área do Banner -->
-<div align="center" style="background-color: white; max-width: 70%;">
+<div align="center" style="background-color: white; max-width: 100%;">
   <img alt="BANNER com título: Da Análise ao Código" title="Banner_ADS_v2" src=".readme_docs/Banner_Github_NCPU.png" width="100%" />
 </div>
 
@@ -39,23 +39,29 @@ Aqui você encontrará o arquivo dos dados em csv (`imdb-reviews-pt-br.csv`) e u
 | [<img src="https://avatars3.githubusercontent.com/u/60905310?s=460&v=4" width="75px;"/>](https://github.com/guipatriota) |
 | :------------------------------------------------------------------------------------------------------------------------: |
 
-
 | [Prof. Guilherme Patriota](https://github.com/guipatriota)
 
 ## Como usar este repositório
 
-### Método 1:
-1. Abra o seu <a href="https://colab.research.google.com/" title="Google Colab">Google Colab</a>;
+### Método 1: Link direto para colab com os arquivos deste repositório
+
+1. Você pode diretamente abrir no Colab este repositório pelo link clicando <h1 align="center">[aqui](https://colab.research.google.com/github/N-CPUninter/Big_Data/blob/main/trabalho_big_data.ipynb)</h1>
+2. Lembre-se de salvar uma cópia em seu Google Drive deste arquivo antes de começar, para que seu trabalho seja salvo automaticamente e você não corra o risco de perder alguma coisa já feita.
+
+### Método 2: Abrir repositório github pelo Google Colab
+
+1. Abra o seu [Google Colab](https://colab.research.google.com/);
 2. Na janela de abertura de arquivo, clique em GitHub;
 3. Na barra de busca, substitua seu nome de usuário por `https://github.com/N-CPUninter/Big_Data` e clique em pesquisar (ícone de lupa);
 4. Clique sobre `trabalho_big_data.ipynb`;
 5. Rode o notebook no Google Colab para se certificar de que tudo está rodando corretamente e sem falhas;
 6. Altere os códigos nas partes da Questão 1 e 2 para realização do trabalho.
 
-### Método 2:
-1. Faça dolwnload do arquivo `trabalho_big_data.ipynb`;
-2. Abra o <a href="https://colab.research.google.com/" title="Google Colab">Google Colab</a>;
-3. Faça o upload do arquivo do trabalho para seu <a href="https://colab.research.google.com/" title="Google Colab">Google Colab</a>, na janela de abertura de arquivo;
+### Método 3:
+
+1. Faça download do arquivo `trabalho_big_data.ipynb`;
+2. Abra o [Google Colab](https://colab.research.google.com/);
+3. Faça o upload do arquivo do trabalho para seu [Google Colab](https://colab.research.google.com/), na janela de abertura de arquivo;
 4. Rode o notebook no Google Colab para se certificar de que tudo está rodando corretamente e sem falhas;
 5. Altere os códigos nas partes da Questão 1 e 2 para realização do trabalho.
 
