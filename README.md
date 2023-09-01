@@ -4,7 +4,7 @@
 </div>
 
 <!-- Título e breve descrição do repositório -->
-<div align="center"><h1>MODELO</h1><p><b>Arquivos de auxílio ao trabalho da matéria de Big Data, incluindo arquivo csv com os dados e um notebook Python para início do trabalho.</b></p></div>
+<div align="center"><h1>Trabalho de Big Data</h1><p><b>Arquivos de auxílio ao trabalho da matéria de Big Data, incluindo arquivo csv com os dados e um notebook Python para início do trabalho.</b></p></div>
 
 <!-- Ícones ou links das tecnologias usadas -->
 <p align="center">
